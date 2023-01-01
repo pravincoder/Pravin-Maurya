@@ -7,7 +7,7 @@
  
 - 😁 I am **self-taught programmer** and **passionate learner** who always eager to `learn new skills` and **help others learn it too**.😅
  
-- 🔗 You can also connect with me using [https://github.com/pravincoder] (github) 🔗.
+- 🔗 You can also connect with me using [github](https://github.com/pravincoder)  🔗.
 
 - 💻 I'm interested in **Machine Learning, Android application development,Web development(backend), etc** 
 
