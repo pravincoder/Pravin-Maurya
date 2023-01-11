@@ -10,7 +10,7 @@
 <h3 align="center">I'm an Undergraduate Computer Engineering Student from Mumbai University.</h3>
 
 <img align="right" alt="CODING" width="380" height="500"
-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1CHQ-CDSSLoSXYu9WjU55Nevav9qb9cpP2pmZmoMDevkZOgcbLYOxhhAIruIyl2Mnw-KhsrdZuu_te9RED3VbhlcHFMHxC_cBhVwtyeUvaMVyzysskldFkAxI1LsOS5lQ3x8WhhVZDCvCxAucVtwLPBtGJpP9_wSz7S6lVsvVEevM5kH1pYqFBx5/w640-h570/photo_2023-01-11_20-13-39.jpg">
+src="">
 
 <h3 align="left">About me:- <img src="https://i.pinimg.com/originals/e0/5e/61/e05e6141da33580ee2677ff7cbff7139.gif" height=50 width=50> </h3>
  
