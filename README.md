@@ -2,14 +2,16 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img  align="right" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" height=40 width=40>
- <img align="right" alt="CODING" width="380" height="500"
-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1CHQ-CDSSLoSXYu9WjU55Nevav9qb9cpP2pmZmoMDevkZOgcbLYOxhhAIruIyl2Mnw-KhsrdZuu_te9RED3VbhlcHFMHxC_cBhVwtyeUvaMVyzysskldFkAxI1LsOS5lQ3x8WhhVZDCvCxAucVtwLPBtGJpP9_wSz7S6lVsvVEevM5kH1pYqFBx5/w640-h570/photo_2023-01-11_20-13-39.jpg">
+ 
 </picture>
 <!--👋-->
 <h1 align="center">  Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=30 width=30>
     <br>I'm Pravin Maurya !!</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student from Mumbai University.</h3>
- 
+
+<img align="right" alt="CODING" width="380" height="500"
+src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1CHQ-CDSSLoSXYu9WjU55Nevav9qb9cpP2pmZmoMDevkZOgcbLYOxhhAIruIyl2Mnw-KhsrdZuu_te9RED3VbhlcHFMHxC_cBhVwtyeUvaMVyzysskldFkAxI1LsOS5lQ3x8WhhVZDCvCxAucVtwLPBtGJpP9_wSz7S6lVsvVEevM5kH1pYqFBx5/w640-h570/photo_2023-01-11_20-13-39.jpg">
+
 <h3 align="left">About me:- <img src="https://i.pinimg.com/originals/e0/5e/61/e05e6141da33580ee2677ff7cbff7139.gif" height=50 width=50> </h3>
  
 - 😁 I am **self-taught programmer** and **passionate learner** who always eager to `learn new skills` and **help others learn it too**.😅
