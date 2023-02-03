@@ -9,7 +9,7 @@
     <br>I'm Pravin Maurya !!</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student from Mumbai University.</h3>
 
-<img align="right" alt="CODING" width="380" height="500"
+<img src="https://github.com/pravincoder/pravincoder/blob/main/m5.png" align="right" alt="CODING" width="380" height="500"
 src="">
 
 <h3 align="left">About me:- <img src="https://i.pinimg.com/originals/e0/5e/61/e05e6141da33580ee2677ff7cbff7139.gif" height=50 width=50> </h3>
