@@ -33,7 +33,7 @@ src="">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpravincoder1212%2Fhit-counter" alt="coding-enthusiast9857" /> </p></h3>
 
 
-<h3 align="left">Connect with me:-<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/handshake_1f91d.png" height=65 width=65></h3> </h3>
+<h3 align="left">Connect with me:-<img src="https://media2.giphy.com/media/mGo8dkPOF6GLm/giphy.gif?cid=ecf05e47sbpsv10pf2nvnxq6bzvi2k5rpevqm80yst1yzl36&rid=giphy." height=65 width=65></h3> </h3>
 <a href="https://www.linkedin.com/in/pravin-maurya-3256031a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-maurya-3256031a4" height="35" width="40" /></a>
 <a href="https://www.codechef.com/users/pravin999" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="@madhavison06" height="80" width="100" /></a>
 <a href="https://www.hackerrank.com/pravincoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="60" /></a>
