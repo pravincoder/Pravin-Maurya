@@ -24,13 +24,13 @@ src="">
 
 - 🔍 I’m open to collaborate on **various software based projects** 🔎.
 
-- 👨‍💻 Some of my projects are available at [pravincoder](PravinCoder). 
+- 👨‍💻 Some of my projects are available at [pravincoder](https://github.com/pravincoder?tab=repositories). 
 
 - 📫 How to reach me **pravincoder@gmail.com** 
 
 <h3 align="left">Profile view & Repo hits :-<img src="https://media3.giphy.com/media/lRXY41yFFi9RfNXyPN/giphy.gif?cid=6c09b952378cd8a2044580aa9dffe929cb5f705cf3ae2df4&rid=giphy.gif&ct=g" height=65 width=65></h3>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=pravincoder&label=Profile%20views&color=0e75b6&style=flat" alt="pravincoder" />
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpravincoder1212%2Fhit-counter" alt="coding-enthusiast9857" /> </p></h3>
+ <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpravincoder1212%2Fhit-counter" alt="Pravincoder" /> </p></h3>
 
 
 <h3 align="left">Connect with me:-<img src="https://media2.giphy.com/media/mGo8dkPOF6GLm/giphy.gif?cid=ecf05e47sbpsv10pf2nvnxq6bzvi2k5rpevqm80yst1yzl36&rid=giphy." height=65 width=65></h3> </h3>
