@@ -16,7 +16,7 @@ src="">
  
 - 😁 I am **self-taught programmer** and **passionate learner** who always eager to `learn new skills` and **help others learn it too**.😅
  
-- 🔗 You can also **connect with me** using [github](https://github.com/pravincoder)  🔗.
+- 🔗 You can also **connect with me** using [Linkedin](https://www.linkedin.com/in/pravin-maurya-3256031a4/)  🔗.
 
 - 💻 I'm interested in **Machine Learning, Android application development,Web development(backend), etc** 💻.
 
