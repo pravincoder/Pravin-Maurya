@@ -29,7 +29,8 @@ src="">
 - 📫 How to reach me **pravincoder@gmail.com** 
 
 
-<h3 align="left">Connect with me:-&nbsp;&nbsp;</h3>
+<h3 align="left">Connect with me:-&nbsp;&nbsp;<img src="https://cdn.dribbble.com/users/3205235/screenshots/8193768/media/709c78b58c72dd4260eb98efea7db997.gif" height=80 width=100></h3>
+<a href="https://pravincode.000webhostapp.com/" target="blank"><img align="center" src="https://github.com/pravincoder/pravin-website/blob/gh-pages/static/icon.jpg?raw=true" alt="pravin-maurya-3256031a4" height="55" width="60" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pravin-maurya-3256031a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-maurya-3256031a4" height="55" width="70" /></a>&nbsp;
 <a href="https://www.codechef.com/users/pravin999" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="@pravincoder" height="100" width="120" /></a>&nbsp;
 <a href="https://www.hackerrank.com/pravincoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="65" width="80" /></a>
